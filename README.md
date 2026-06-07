@@ -84,9 +84,5 @@ flutter run
 Bu proje, modern veri mimarileri ve kullanıcı arayüzü tasarımı üzerine yapılan Ar-Ge çalışmaları kapsamında geliştirilmiştir. Kodu incelediğiniz için teşekkürler!
 
 
-### Neden Bu README Çok Güçlü?
-1. **İngilizce Başlıklar ve Terimler:** İK'cılar "Separation of Concerns", "Multi-BaaS", "Serialization", "Clean Architecture" gibi sihirli kelimeleri görmeye bayılırlar. Bunları Türkçe açıklamaların yanına özellikle ekledim.
-2. **Mimari Açıklama:** Neden iki farklı veritabanı kullandığını "Hoca öyle istedi" diye değil; "Biri metinler için çok hızlı (Firebase), diğeri büyük resim dosyaları için daha ucuz ve uygun (Supabase), bu yüzden bilerek böyle bir sistem tasarladım" diyerek mühendislik vizyonu kattık.
-3. **Ağaç Yapısı (`Klasör Yapısı`):** GitHub'a giren kişinin dosyaların içine tek tek girmesine gerek kalmadan tüm projenin ne kadar düzenli olduğunu tek bakışta anlamasını sağladık. 
 
 
