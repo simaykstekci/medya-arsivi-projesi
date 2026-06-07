@@ -1,0 +1,11 @@
+PROJE GİRİŞ BİLGİLERİ (FİNAL TESLİMİ)
+
+-- SUPABASE --
+E-posta: 030724074@std.izu.edu.tr
+Şifre: 123
+Proje URL: https://qjcyinexdhmyrcnpgojh.supabase.co
+
+-- FIREBASE --
+E-posta: 030724074@std.izu.edu.tr
+Şifre: 123
+Proje Adı: medya-archive
