@@ -63,7 +63,7 @@ Projeyi yerel makinenizde (Local environment) test etmek için aşağıdaki adı
 
 1. Depoyu klonlayın:
 ```bash
-git clone [https://github.com/kullaniciadin/medya-arsivi.git](https://github.com/kullaniciadin/medya-arsivi.git)
+git clone [https://github.com/simaykstekci/medya-arsivi.git](https://github.com/kullaniciadin/medya-arsivi.git)
 
 ```
 
