@@ -89,5 +89,4 @@ Bu proje, modern veri mimarileri ve kullanıcı arayüzü tasarımı üzerine ya
 2. **Mimari Açıklama:** Neden iki farklı veritabanı kullandığını "Hoca öyle istedi" diye değil; "Biri metinler için çok hızlı (Firebase), diğeri büyük resim dosyaları için daha ucuz ve uygun (Supabase), bu yüzden bilerek böyle bir sistem tasarladım" diyerek mühendislik vizyonu kattık.
 3. **Ağaç Yapısı (`Klasör Yapısı`):** GitHub'a giren kişinin dosyaların içine tek tek girmesine gerek kalmadan tüm projenin ne kadar düzenli olduğunu tek bakışta anlamasını sağladık. 
 
-Bağlantıdaki `kullaniciadin/medya-arsivi.git` kısmını kendi GitHub linkine göre düzeltmeyi unutma. Bu profilinle iş başvurularında bir adım öndesin! Başka bir düzenleme istersen buradayım.
 
