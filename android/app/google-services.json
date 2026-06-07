@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838963325180",
+    "project_id": "media-archive-b78c2",
+    "storage_bucket": "media-archive-b78c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838963325180:android:1f691b1e917bc887aecf79",
+        "android_client_info": {
+          "package_name": "com.example.media_archive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO6gz1QI3fFgtumHi3WnhRwnI0f_t2dHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
